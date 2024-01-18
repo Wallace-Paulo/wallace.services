@@ -18,7 +18,7 @@ function App() {
         <a className='btn' rel='noreferrer' target="_blank" href="https://wa.me/5521974234181">ORÇAMENTO</a>
         <a className='btn' rel='noreferrer' target="_blank" href="https://www.instagram.com/wpdesigneer/">INSTAGRAM</a>
         <a className='btn' rel='noreferrer' target="_blank" href="https://www.linkedin.com/in/wallacepaulo/">LINKEDIN</a>
-        <a className='btn' rel='noreferrer' target="_blank" href="https://www.behance.net/wallacepaulo">PORTIFÓLIO</a>
+        <a className='btn' rel='noreferrer' target="_blank" href="https://www.behance.net/wallacepaulo">PORTFÓLIO</a>
       </div>
       <div className='rodape'>
         <p>© Wallace Paulo - Todos os direitos reservados.</p>
