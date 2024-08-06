@@ -11,7 +11,7 @@ function App() {
         <img className='img' src={img} alt="Foto do Perfil." />
         <div className='info-text'>
           <h1>WALLACE PAULO</h1>
-          <p>DESINER GRÁFICO | FRONT-END | UI/UX DESIGNER</p>
+          <p>DESIGNER GRÁFICO | FRONT-END | UI/UX DESIGNER</p>
         </div>
       </div>
       <div className='card'>
